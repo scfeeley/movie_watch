@@ -1,0 +1,22 @@
+img{
+    max-width: 30%;
+}
+
+h1{
+    text-align: center;
+}
+.horiz{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.vert{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button, a{
+   text-align: center;
+}
